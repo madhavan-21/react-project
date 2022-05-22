@@ -8,7 +8,7 @@ function Header() {
 	       <div class="loader"></div>
       </div>
       <div className='new'>
-      <p>Something Coming...</p>
+      <p>Something Coming...r</p>
 
       </div>
        
